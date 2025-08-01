@@ -25,4 +25,4 @@ I'm a full-stack web developer and aspiring software engineer. I'm currently foc
 
 ## 📫 Contact Me
 - LinkedIn: [linkedin.com/in/Gokulaprasath P](https://www.linkedin.com/in/gokulaprasath-p-152415310/)
-- Email: gokulweb3dev@gmail.com]
+- Email: gokulweb3dev@gmail.com
