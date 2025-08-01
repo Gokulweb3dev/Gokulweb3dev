@@ -1,4 +1,4 @@
-# Hi, I'm Santa 👋
+# Hi, I'm Gokulaprasath 👋
 
 I'm a full-stack web developer and aspiring software engineer. I'm currently focused on mastering **DSA in Python**, **MERN stack**, and building powerful web applications.
 
@@ -21,8 +21,8 @@ I'm a full-stack web developer and aspiring software engineer. I'm currently foc
 | **Netflix Clone** | A movie platform for entertainment | React, Tailwind| [Live](https://netflix-clone-eta-bay-55.vercel.app) |
 
 ## 🧠 Problem Solving
-- Leetcode: [@okulweb3dev](https://leetcode.com/u/gokulweb3dev/)
+- Leetcode: [@gokulweb3dev](https://leetcode.com/u/gokulweb3dev/)
 
 ## 📫 Contact Me
 - LinkedIn: [linkedin.com/in/Gokulaprasath P](https://www.linkedin.com/in/gokulaprasath-p-152415310/)
-- Email: gokulweb3dev@gmail.com
+- Email: gokulweb3dev@gmail.com]
