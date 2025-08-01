@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Santa 👋
 
-<!--
-**Gokulweb3dev/Gokulweb3dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer and aspiring software engineer. I'm currently focused on mastering **DSA in Python**, **MERN stack**, and building powerful web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Others:** Git, GitHub, Postman, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- DSA (Python)
+- Blockchain (Full Stack)
+- System Design
+
+## 🔥 Featured Projects
+| Name | Description | Tech Stack | Link |
+|------|-------------|------------|------|
+| **Todo Tracker App** | A app to manage tasks and deadlines | React | [Live](https://todo-app-react-rdmp.vercel.app) |
+| **Portfolio Website** | Personal site to showcase work | React, Tailwind, GSAP | [Live](https://gokulaprasath.vercel.app) |
+| **Netflix Clone** | A movie platform for entertainment | React, Tailwind| [Live](https://netflix-clone-eta-bay-55.vercel.app) |
+
+## 🧠 Problem Solving
+- Leetcode: [@okulweb3dev](https://leetcode.com/u/gokulweb3dev/)
+
+## 📫 Contact Me
+- LinkedIn: [linkedin.com/in/Gokulaprasath P](https://www.linkedin.com/in/gokulaprasath-p-152415310/)
+- Email: gokulweb3dev@gmail.com
